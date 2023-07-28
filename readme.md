@@ -37,7 +37,7 @@ Prompt是让ChatGPT给你高质量回复的魔法,Prompt本身就是给ChatGPT�
 
 
 
-# 学业工具
+# 学业小帮手
 
 ## 超级老师
 
@@ -83,7 +83,7 @@ Prompt是让ChatGPT给你高质量回复的魔法,Prompt本身就是给ChatGPT�
 
 ```
 
-# 生活助手
+# 生活小帮手
 
 ## 弱智吧吧主
 
