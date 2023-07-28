@@ -6,6 +6,12 @@
 
 欢迎大家Pull Request你们的Prompt,一起构建大学生GPT
 
+## Prompt是什么?
+
+Prompt是让ChatGPT给你高质量回复的魔法,Prompt本身就是给ChatGPT的问题,因为比较规范,所以叫做Prompt
+
+就像中国人说中国话,火星人说火星语,语言对了才能交流.
+
 ## 用法
 
 
